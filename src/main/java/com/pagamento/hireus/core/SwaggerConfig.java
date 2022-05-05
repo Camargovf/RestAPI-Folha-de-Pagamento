@@ -19,7 +19,7 @@ public class SwaggerConfig {
     private static final String API_TITLE = "API de Folha de Pagamento";
     private static final String API_DESCRIPTION = "REST API para controle da folha de pagamento";
     private static final String CONTACT_NAME = "EQUIPE HIRE US";
-    private static final String CONTACT_GITHUB = "https://gtihub de algum dos integrantes da equipe";
+    private static final String CONTACT_GITHUB = "https://github.com/laersonjr/project-java-with-spring-cerc";
     private static final String CONTACT_EMAIL = "hireus@gmail.com";
 
     //Classe Externa Docket
