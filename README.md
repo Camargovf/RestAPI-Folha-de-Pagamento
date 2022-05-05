@@ -126,7 +126,7 @@ JDK 11
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "atualização"`
 4. Envie as suas alterações: `git push origin nomedoarquivo`
 
-## 🎁 Agredecimento
+## 🎁 Agradecimento
 
 * Em especial ao time pelo trabalho incrível e pela jornada durante o Bootcamp.
 * A Gama Academy, Mariane e Débora.
