@@ -41,7 +41,7 @@ sudo apt install openjdk-11-jre-headless
 bash
 
  Clone este repositório
-$ git clone https://github.com/laersonjr/project-java-with-spring-cerc
+$ git clone https://github.com/Camargovf/RestAPI-Folha-de-Pagamento
 
  Acesse a pasta do projeto no terminal/cmd
 $ cd README-nomeprojeto
